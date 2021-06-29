@@ -140,7 +140,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a span {
-  color: #ffc451;
+  /* color: #ffc451; */
+  color: #007bff;
 }
 
 #header .logo img {
@@ -178,7 +179,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #ffc451;
+  /* color: #ffc451; */
+  color: #007bff;
 }
 
 .nav-menu .drop-down ul {
@@ -268,12 +270,15 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
-  border: 2px solid #ffc451;
+  /* border: 2px solid #ffc451; */
+  border: 2px solid #007bff;
 }
 
 .get-started-btn:hover {
-  background: #ffbb38;
-  color: #343a40;
+  /* background: #ffbb38; */
+  /* color: #343a40; */
+	color: #fff;
+  background: #007bff;
 }
 
 @media (max-width: 768px) {
@@ -448,7 +453,8 @@ h1, h2, h3, h4, h5, h6 {
 #hero .icon-box i {
   font-size: 32px;
   line-height: 1;
-  color: #ffc451;
+  /* color: #ffc451; */
+  color: #fff;
 }
 
 #hero .icon-box h3 {
@@ -461,7 +467,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .icon-box h3 a {
-  color: #ffc451;
+  /* color: #ffc451; */
+  color: #fff;
   transition: ease-in-out 0.3s;
 }
 #hero .icon-box span {
@@ -470,11 +477,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .icon-box h3 a:hover {
-  color: #ffc451;
+  /* color: #ffc451; */
+  color: #007bff;
 }
 
 #hero .icon-box:hover {
-  border-color: #ffc451;
+  /* border-color: #ffc451; */
+  border-color: #007bff;
 }
 
 @media (min-width: 1024px) {
