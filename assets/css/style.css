@@ -46,8 +46,10 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #ffc451;
-  color: #151515;
+  /* background: #ffc451; */
+  background: #542084;
+  /* color: #151515; */
+  color: #fff;
   transition: all 0.4s;
 }
 
@@ -75,7 +77,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 0px);
   left: calc(50% - 30px);
-  border: 6px solid #ffc451;
+  border: 6px solid #fff;
   border-top-color: #151515;
   border-bottom-color: #151515;
   border-radius: 50%;
@@ -1286,7 +1288,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #ffcd6b;
+  /* background: #ffcd6b; */
 }
 
 @-webkit-keyframes animate-loading {
@@ -1473,7 +1475,8 @@ section {
 }
 
 #footer .footer-top .footer-info h3 span {
-  color: #ffc451;
+  color: #007bff;
+  /* color: #ffc451; */
 }
 
 #footer .footer-top .footer-info p {
@@ -1525,7 +1528,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #ffc451;
+  color: #fff;
   font-size: 18px;
   line-height: 1;
 }
@@ -1548,7 +1551,8 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #ffc451;
+  /* color: #ffc451; */
+  color: #007bff;
 }
 
 #footer .footer-top .footer-newsletter form {
@@ -1574,14 +1578,15 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #ffc451;
+  background: #007bff;
   color: #151515;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #ffcd6b;
+  /* background: #ffcd6b; */
+  background: #527296;
 }
 
 #footer .copyright {
