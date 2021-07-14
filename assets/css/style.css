@@ -1503,8 +1503,10 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #ffc451;
-  color: #151515;
+  background: #0d6efd;
+  /* background: #ffc451; */
+  /* color: #151515; */
+  color: #fff;
   text-decoration: none;
 }
 
